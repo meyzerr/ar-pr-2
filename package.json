@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@mapbox/mapbox-gl-draw": "^1.5.1",
+    "@phosphor-icons/react": "^2.1.10",
     "geojson": "^0.5.0",
     "lucide-react": "^1.31.0",
     "maplibre-gl": "^6.4.0",
